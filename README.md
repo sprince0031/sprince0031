@@ -7,14 +7,14 @@ I'm Siddharth a.k.a Sid.
 
 ## 📊 My Github Stats <a href='https://github.com/sprince0031?tab=followers'><img src='https://img.shields.io/github/followers/sprince0031?label=Followers&style=social'></a> <a href='https://github.com/sprince0031'><img src='https://komarev.com/ghpvc/?username=sprince0031'></a>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sid's streak" src="https://streak-stats.demolab.com/?user=sprince0031&theme=chartreuse-dark&hide_border=true&bg_color=30363D"/>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=sprince0031&theme=microsoft-dark&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
 </p>
 <p align="center">
   <br/>
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=sprince0031&count_private=true&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true&bg_color=0D1117'></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprince0031&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&show_icons=true" /></a>
+  <img src='https://github-readme-stats.vercel.app/api?username=sprince0031&count_private=true&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true&bg_color=0D1117'>
+  <img alt="Sid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprince0031&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&show_icons=true" />
   <p><u><b>Note:</b></u> These stats represent my work on my public Github profile and are not indicative of my full experience or skill level.</p>
 </p>
 
