@@ -2,8 +2,20 @@
 
 I'm Siddharth a.k.a Sid.
 
-- 🌱 I’m currently pursuing a Masters degree in Artificial Intelligence and Machine Learning at the [University of Limerick](https://www.ul.ie/)
+- 🌱 I’m currently pursuing a PhD degree in Artificial Intelligence and Machine Learning at the [University of Limerick](https://www.ul.ie/)
 - 📫 How to reach me: <a href='mailto:siddharthprince31@gmail.com'>siddharthprince31@gmail.com </a>
+
+## 🛠️ Technologies and Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📊 My Github Stats <a href='https://github.com/sprince0031?tab=followers'><img src='https://img.shields.io/github/followers/sprince0031?label=Followers&style=social'></a> <a href='https://github.com/sprince0031'><img src='https://komarev.com/ghpvc/?username=sprince0031'></a>
 <p align="center">
